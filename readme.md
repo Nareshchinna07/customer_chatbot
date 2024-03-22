@@ -4,7 +4,7 @@ Hi Folks this is Naresh
 
 
 home page![alt text](<images/Screenshot 2024-03-22 102028.png>)>)
-chat page![alt text](<images/Screenshot 2024-03-22 101940.png>)>)
+chat page![alt text](<images/Screenshot 2024-03-22 101940.png>)
 
 ## Installation Guide
 
